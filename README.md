@@ -1,2 +1,2 @@
 # ubuntu
-Scripts de autorização de instalação de serviços
+Scripts de automatização de instalação de serviços

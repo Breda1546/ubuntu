@@ -1,7 +1,7 @@
 #!/bin/bash
 #Meu Primeiro Script
 
-#Listando os diretorios do linux
+#Listando os diretórios do Linux
 ls -lha /
 read
 clear
@@ -12,5 +12,5 @@ echo "Listas atualizadas!!!"
 read
 cls
 
-#Desligando o sevidor
-shutdown -r now 
+#Desligando o servidor
+shutdown -r now
